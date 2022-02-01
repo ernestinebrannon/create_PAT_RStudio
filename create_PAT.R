@@ -24,7 +24,7 @@ usethis::create_github_token()
 # Step 4: Set up PAT in Rstudio -------------------------------------------
 # You do not need to replace "YOURPAT" with you PAT,
 #you  will be prompted to enter your PAT after running this line
-credentials::set_github_pat("StpYourPAT")
+credentials::set_github_pat("YourPAT")
 
 
 # Step 5 Check your settings ----------------------------------------------
