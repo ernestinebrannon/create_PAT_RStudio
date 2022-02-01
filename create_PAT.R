@@ -10,7 +10,7 @@ usethis::git_sitrep()
 # Step 2: Fill in your username and email that you used for github --------
 #Then Run this line
 
-usethis::use_git_config(user.name = "ernestinebrannon", user.email = "ernestinebrannon@gmail.com")
+usethis::use_git_config(user.name = "YourName", user.email = "YourEmail@gmail.com")
 
 
 # Step 3:  Creat Personal Accesss Token -----------------------------------
